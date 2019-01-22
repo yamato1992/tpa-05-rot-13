@@ -1,0 +1,15 @@
+#container {
+    position: relative;
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#container textarea {
+    width: 500px;
+    height: 200px;
+}
+
+#container .btn-convert {
+    margin: 20px;
+}
